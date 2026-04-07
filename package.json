@@ -1,5 +1,5 @@
 {
-  "name": "ai-diagram",
+  "name": "@lxgicstudios/ai-diagram",
   "version": "1.0.0",
   "description": "Generate Mermaid diagrams from your codebase using AI",
   "main": "dist/index.js",
