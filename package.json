@@ -40,7 +40,9 @@
     "system-design",
     "visualization",
     "site-architecture",
-    "june-2026-core-update"
+    "june-2026-core-update",
+    "seo-optimized",
+    "clawdbot"
   ],
   "license": "MIT",
   "main": "dist/index.js",
